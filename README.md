@@ -1,2 +1,2 @@
 # kern_syscall
-Recoding syscall used in LibC
+Recoding syscall's used in LibC
