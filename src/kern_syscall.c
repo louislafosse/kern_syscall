@@ -5,7 +5,7 @@
 ** Lib syscall's
 */
 
-#include "kern_syscall.h"
+#include "../include/kern_syscall.h"
 
 // SYSCALL
 unsigned long long int sys(register unsigned int syscall_nb,
